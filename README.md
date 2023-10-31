@@ -1,2 +1,2 @@
 # learnU
- Udemy like E-learning platform app written in java spring (and later ktor) with ffmpeg for video processing along with service workers and kafka and minI/O
+Udemy like E-learning platform app written in java spring (and later ktor) with kafka for event event sourcing ffmpeg video processing service along with minI/O for storage
